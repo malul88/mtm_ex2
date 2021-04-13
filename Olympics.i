@@ -8,6 +8,7 @@ typedef struct olympics* Olympics;
 
 Olympics OlympicsCreate();
 
+
 void OlympicsUpdateCompetitionResults(Olympics o, const char* gold_country, const char* silver_country, const char* bronze_country);
 
 void OlympicsWinningCountry(Olympics o);

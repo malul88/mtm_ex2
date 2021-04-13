@@ -1,3 +1,5 @@
+
+
 def countCompetitors(competitors, competition):
     counter = 0
     for i in range(len(competitors)):
@@ -79,37 +81,30 @@ def key_sort_competitor(competitor):
 def checkForCheaters(competitors_in_competitions, competition_names):
     sorted_list = sorted(competitors_in_competitions, key=key_sort_competitor)
     sum_of_competitors = 0
-    illegal_competitors = []
     for competition in competition_names.keys():
         competitors_id = []
         num_of_competitors = countCompetitors(sorted_list, competition)
+        deleted = 0
         for i in range(sum_of_competitors, sum_of_competitors + num_of_competitors):
             competitors_id.append(sorted_list[i]["competitor id"])
-        competitors_id.sort()
+            competitors_id.sort()
         if len(competitors_id) >= 2:
             for j in range(len(competitors_id) - 1):
                 if competitors_id[j] == competitors_id[j + 1]:
-                    tmp_dict = {
-                        "competition name": competition,
-                        "competitor id": competitors_id[j]
-                    }
-                    illegal_competitors.append(tmp_dict)
-
-        sum_of_competitors += num_of_competitors
-    for dicts in illegal_competitors:
-        i = 0
-        while i < len(sorted_list):
-            if i >=len(sorted_list):
-                break
-            x = dicts["competition name"] == sorted_list[i]["competition name"]
-            y = dicts["competitor id"] == sorted_list[i]["competitor id"]
-            if x and y:
-                sorted_list.remove(sorted_list[i])
-                continue
-            i += 1
-
+                    k = sum_of_competitors
+                    counter = 0
+                    while counter < num_of_competitors:
+                        if k >= len(sorted_list):
+                            break
+                        if sorted_list[k]["competitor id"] == competitors_id[j]:
+                            sorted_list.remove(sorted_list[k])
+                            deleted += 1
+                            counter += 1
+                            continue
+                        counter += 1
+                        k += 1
+        sum_of_competitors += num_of_competitors - deleted
     return sorted_list
-
 
 def readParseData(file_name):
     """
@@ -131,7 +126,7 @@ def readParseData(file_name):
         if split_line[0] == "competitor":
             competitors.append(split_line[1])
             competitors.append(split_line[2])
-        elif split_line[0] == "competition":
+        else:
             dict_competitions = {
                 "competition name": split_line[1],
                 "competitor id": split_line[2],
@@ -142,6 +137,7 @@ def readParseData(file_name):
     for temp_dict in competitors_in_competitions:
         competitor_id = temp_dict["competitor id"]
         temp_dict["competitor country"] = competitors[competitors.index(competitor_id) + 1]
+
 
     return competitors_in_competitions
 
@@ -166,7 +162,6 @@ def calcCompetitionsResults(competitors_in_competitions):
         competition_names[temp_dict["competition name"]] = [temp_dict["competition type"]]
     #  check if there's a cheater and delete him
     sorted_list = checkForCheaters(competitors_in_competitions, competition_names)
-    sorted_list = sorted(sorted_list, key=key_sort_competitor)
     #  rank the winners countries
     sum_of_competitors = 0
     for comp_name, comp_type in competition_names.items():
