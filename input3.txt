@@ -1,0 +1,167 @@
+# No competition is legal
+competitor 1 Monaco
+competition x 1 timed 1
+competition x 3 timed 4
+competition x 2 timed 5
+competition x 3 timed 6
+competitor 4 Albania
+competitor 43 Belarus
+competitor 44 Norway
+competitor 45 Slovenia
+competition y 6 timed 9
+competition x 1 timed 2
+competitor 2 Greece
+competitor 3 Belgium
+competition x 2 timed 3
+competition z 14 timed 87
+competition z 15 timed 98
+competition z 8 timed 109
+competitor 46 Georgia
+competitor 47 Belgium
+competitor 48 Monaco
+competitor 49 Croatia
+competitor 50 Andorra
+competition y 9 timed 12
+competition y 10 timed 13
+competition y 11 timed 14
+competition y 12 timed 15
+competition y 7 timed 10
+competition y 8 timed 11
+competition z 12 timed 65
+competition z 13 timed 76
+competition y 13 timed 16
+competitor 51 Russia
+competitor 52 Vatican 
+competitor 5 Albania
+competitor 6 Georgia
+competitor 7 Switzerland
+competition y 4 timed 3
+competition y 5 timed 4
+competition y 6 timed 5
+competition y 7 timed 6
+competitor 8 Finland
+competitor 9 Monaco
+competitor 10 Malta
+competitor 11 Moldova
+competitor 12 Norway
+competitor 13 Portugal
+competitor 14 England
+competitor 15 Belgium
+competition y 8 timed 19
+competition y 9 timed 20
+competition y 10 timed 21
+competition y 11 timed 22
+competitor 18 Croatia
+competitor 19 Liechtenstein
+competitor 20 Finland
+competitor 21 Vatican 
+competitor 22 Slovenia
+competition y 12 timed 23
+competition y 13 timed 24
+competition y 14 timed 25
+competition y 15 timed 26
+competitor 16 Sweden
+competitor 17 Spain
+competitor 23 Latvia
+competitor 24 Armenia
+competitor 25 Sweden
+competitor 26 Poland
+competitor 27 Hungary
+competitor 28 Macedonia
+competitor 29 Belgium
+competitor 30 Germany
+competitor 31 Austria
+competition z 1 timed 19
+competition z 1 timed 190
+competition z 14 timed 8
+competition z 15 timed 9
+competition z 8 timed 10
+competition z 9 timed 11
+competition z 10 timed 12
+competition z 11 timed 13
+competition z 12 timed 14
+competition z 13 timed 15
+competition z 14 timed 16
+competition z 15 timed 17
+competitor 32 Portugal
+competitor 33 Bosnia 
+competitor 34 Iceland
+competitor 35 Andorra
+competitor 36 Greece
+competitor 37 France
+competitor 38 Serbia
+competitor 39 Albania
+competitor 40 United-Kingdom
+competitor 41 Vatican 
+competitor 42 Denmark
+competitor 53 Slovakia
+competitor 54 Kazakhstan
+competitor 55 Slovakia
+competitor 56 Portugal
+competition z 8 timed 2
+competition z 9 timed 3
+competition z 10 timed 4
+competition z 11 timed 5
+competition z 12 timed 6
+competition z 13 timed 7
+competitor 57 Italy
+competitor 58 Estonia
+competitor 59 Malta
+competitor 60 Iceland
+competitor 61 Belgium
+competitor 62 Luxembourg
+competitor 63 Romania
+competitor 64 France
+competitor 65 Netherlands
+competitor 66 Poland
+competitor 67 Slovakia
+competitor 68 Kazakhstan
+competitor 69 France
+competitor 70 Germany
+competitor 71 Belarus
+competitor 72 Finland
+competitor 73 Ukraine
+competitor 74 Bulgaria
+competitor 75 Norway
+competitor 76 Latvia
+competitor 77 Latvia
+competitor 78 Luxembourg
+competitor 79 Austria
+competitor 80 Croatia
+competitor 81 Slovenia
+competitor 82 Lithuania
+competition y 14 timed 17
+competition y 15 timed 18
+competition z 1 timed 191
+competition z 1 timed 192
+competition z 8 timed 21
+competition z 9 timed 32
+competition z 10 timed 43
+competition z 11 timed 54
+competitor 83 San-Marino
+competitor 84 Romania
+competitor 85 Greece
+competitor 86 Austria
+competitor 87 Slovakia
+competitor 88 Austria
+competitor 89 Lithuania
+competitor 90 Bosnia
+competitor 91 Croatia
+competitor 92 Kazakhstan
+competitor 93 Austria
+competitor 94 Malta
+competitor 95 Albania
+competitor 96 Italy
+competitor 97 Slovakia
+competitor 98 Netherlands
+competitor 99 Poland
+competitor 100 Norway
+competition y 4 timed 7
+competition y 5 timed 8
+competition z 9 timed 110
+competition z 10 timed 123
+competition z 11 timed 134
+competition z 12 timed 145
+competition z 13 timed 156
+competition z 14 timed 167
+competition z 15 timed 178

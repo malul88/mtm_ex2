@@ -1,0 +1,267 @@
+# duplicated countries
+competitor 18 Croatia
+competitor 19 Liechtenstein
+competition swimming 12 timed 11
+competition rope-jump 75 untimed 145
+competition rope-jump 76 untimed 184
+competition rope-jump 77 untimed 156
+competition rope-jump 78 untimed 134
+competition rope-jump 1 untimed 1340
+competition rope-jump 1 untimed 1341
+competition rope-jump 61 untimed 1342
+competition rope-jump 61 untimed 1343
+competition high-jump 16 untimed 164
+competition high-jump 17 untimed 110
+competition high-jump 18 untimed 171
+competition boxing 96 knockout 20
+competition boxing 97 knockout 21
+competition rope-jump 74 untimed 105
+competition rope-jump 73 untimed 194
+competition high-jump 14 untimed 166
+competition high-jump 15 untimed 136
+competitor 20 Finland
+competitor 21 Vatican 
+competitor 22 Slovenia
+competitor 23 Latvia
+competitor 24 Armenia
+competitor 25 Sweden
+competitor 26 Poland
+competition high-jump 40 untimed 167
+competition high-jump 41 untimed 173
+competitor 41 Vatican 
+competitor 42 Denmark
+competitor 43 Belarus
+competitor 44 Norway
+competitor 45 Slovenia
+competitor 46 Georgia
+competitor 47 Belgium
+competitor 48 Monaco
+competitor 49 Croatia
+competitor 50 Andorra
+competitor 51 Russia
+competition rope-jump 81 untimed 1347
+competition rope-jump 91 untimed 1348
+competition rope-jump 91 untimed 1349
+competitor 1 Monaco
+competitor 2 Greece
+competitor 3 Belgium
+competitor 4 Albania
+competitor 12 Norway
+competitor 13 Portugal
+competitor 14 England
+competitor 15 Belgium
+competitor 16 Sweden
+competitor 17 Spain
+competition boxing 99 knockout 25
+competition high-jump 61 untimed 123
+competition high-jump 62 untimed 165
+competition running 40 timed 14
+competition running 50 timed 15
+competition running 50 timed 16
+competition boxing 16 knockout 10
+competition boxing 17 knockout 14
+competitor 27 Hungary
+competitor 28 Macedonia
+competitor 29 Belgium
+competitor 30 Germany
+competitor 31 Austria
+competitor 32 Portugal
+competitor 33 Bosnia 
+competitor 34 Iceland
+competitor 35 Andorra
+competitor 36 Greece
+competitor 37 France
+competitor 38 Serbia
+competitor 39 Albania
+competitor 40 United-Kingdom
+competition boxing 99 knockout 26
+competition boxing 15 knockout 27
+competition boxing 15 knockout 28
+competition boxing 7 knockout 29
+competition boxing 7 knockout 30
+competitor 52 Vatican 
+competitor 53 Slovakia
+competitor 54 Kazakhstan
+competitor 55 Slovakia
+competitor 56 Portugal
+competitor 57 Italy
+competitor 58 Estonia
+competitor 59 Malta
+competitor 60 Iceland
+competitor 61 Belgium
+competitor 62 Luxembourg
+competitor 63 Romania
+competitor 64 France
+competitor 65 Netherlands
+competitor 66 Poland
+competitor 67 Slovakia
+competitor 68 Kazakhstan
+competitor 69 France
+competitor 70 Germany
+competitor 71 Belarus
+competitor 72 Finland
+competitor 73 Ukraine
+competitor 74 Bulgaria
+competitor 75 Norway
+competitor 76 Latvia
+competitor 77 Latvia
+competitor 78 Luxembourg
+competitor 79 Austria
+competitor 80 Croatia
+competitor 81 Slovenia
+competitor 82 Lithuania
+competitor 83 San-Marino
+competitor 84 Romania
+competitor 85 Greece
+competitor 86 Austria
+competitor 87 Slovakia
+competitor 88 Austria
+competitor 89 Lithuania
+competitor 90 Bosnia 
+competitor 91 Croatia
+competitor 92 Kazakhstan
+competitor 93 Austria
+competitor 94 Malta
+competitor 95 Albania
+competition high-jump 26 untimed 1002
+competition high-jump 16 untimed 300
+competition rope-jump 30 untimed 189
+competition rope-jump 31 untimed 110
+competition rope-jump 32 untimed 130
+competitor 96 Italy
+competitor 97 Slovakia
+competitor 98 Netherlands
+competition high-jump 15 untimed 136
+competition high-jump 42 untimed 220
+competition high-jump 25 untimed 202
+competition high-jump 25 untimed 203
+competition high-jump 26 untimed 1000
+competition rope-jump 72 untimed 101
+competition rope-jump 71 untimed 1344
+competitor 99 Poland
+competitor 100 Norway
+competition rope-jump 73 untimed 194
+competition high-jump 14 untimed 166
+competition rope-jump 71 untimed 1345
+competition rope-jump 81 untimed 1346
+competition boxing 8 knockout 31
+competition boxing 25 knockout 1
+competition boxing 26 knockout 4
+competition boxing 27 knockout 5
+competition boxing 28 knockout 6
+competition boxing 29 knockout 7
+competition boxing 30 knockout 8
+competition football 3 knockout 21
+competition football 81 knockout 22
+competition football 93 knockout 23
+competition swimming 7 timed 96
+competition swimming 8 timed 36
+competition swimming 9 timed 53
+competition swimming 10 timed 23
+competition swimming 11 timed 5
+competition boxing 31 knockout 9
+competition boxing 32 knockout 3
+competition running 72 timed 193
+competition running 73 timed 179
+competition running 74 timed 159
+competition running 75 timed 118
+competition running 85 timed 113
+competition running 86 timed 117
+competition running 87 timed 173
+competition running 88 timed 119
+competition running 89 timed 174
+competition running 90 timed 150
+competition running 91 timed 105
+competition running 100 timed 134
+competition running 20 timed 9
+competition running 20 timed 10
+competition running 30 timed 11
+competition running 30 timed 12
+competition running 40 timed 13
+competition boxing 33 knockout 11
+competition boxing 34 knockout 12
+competition boxing 35 knockout 13
+competition boxing 36 knockout 2
+competition boxing 37 knockout 15
+competition boxing 38 knockout 16
+competition boxing 39 knockout 17
+competition boxing 40 knockout 18
+competition boxing 95 knockout 19
+competition boxing 8 knockout 32
+competitor 5 Albania
+competitor 6 Georgia
+competitor 7 Switzerland
+competitor 8 Finland
+competition boxing 9 knockout 33
+competition boxing 9 knockout 34
+competition high-jump 11 untimed 198
+competition high-jump 12 untimed 143
+competition high-jump 13 untimed 194
+competition boxing 98 knockout 22
+competition boxing 24 knockout 23
+competition boxing 24 knockout 24
+competition running 80 timed 171
+competition running 81 timed 116
+competition running 82 timed 185
+competition running 83 timed 186
+competition running 84 timed 165
+competition rope-jump 57 untimed 128
+competition rope-jump 58 untimed 191
+competition rope-jump 59 untimed 119
+competition rope-jump 60 untimed 187
+competition football 28 knockout 1
+competition football 29 knockout 11
+competition swimming 85 timed 103
+competition football 93 knockout 23
+competition running 5 timed 192
+competition running 70 timed 194
+competition running 71 timed 124
+competition swimming 1 timed 89
+competition football 23 knockout 5
+competition football 24 knockout 6
+competition football 25 knockout 7
+competition football 26 knockout 8
+competition football 27 knockout 9
+competition high-jump 16 untimed 305
+competition high-jump 17 untimed 323
+competition high-jump 17 untimed 333
+competition high-jump 43 untimed 1515
+competition high-jump 43 untimed 262
+competition rope-jump 55 untimed 167
+competition rope-jump 56 untimed 117
+competition high-jump 63 untimed 149
+competition high-jump 64 untimed 147
+competition high-jump 65 untimed 185
+competition high-jump 66 untimed 178
+competition high-jump 42 untimed 200
+competition swimming 3 timed 54
+competition swimming 4 timed 52
+competition football 1 knockout 10
+competition football 20 knockout 19
+competition football 21 knockout 4
+competition football 22 knockout 3
+competition swimming 80 timed 100
+competition football 30 knockout 12
+competition football 31 knockout 13
+competition football 32 knockout 14
+competition football 33 knockout 15
+competition football 34 knockout 16
+competition swimming 85 timed 102
+competition football 35 knockout 17
+competition football 70 knockout 18
+competition football 99 knockout 2
+competition football 5 knockout 20
+competition football 5 knockout 20
+competition football 3 knockout 21
+competition swimming 80 timed 101
+competition swimming 6 timed 78
+competition swimming 11 timed 3
+competition swimming 100 timed 8
+competition swimming 100 timed 9
+competition swimming 2 timed 79
+competition swimming 12 timed 10
+competition swimming 5 timed 37
+competition football 81 knockout 22
+competitor 9 Monaco
+competitor 10 Malta
+competitor 11 Moldova
